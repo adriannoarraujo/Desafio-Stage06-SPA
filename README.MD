@@ -1,4 +1,4 @@
-# ⌛ Focus Timer
+# ⌛ SPA - Single Page Applications
 
 Primeiro desafio proposto no módulo 6 do curso Explorer da Rocketseat
 
@@ -24,19 +24,6 @@ Primeiro desafio proposto no módulo 6 do curso Explorer da Rocketseat
 - GIT
 - GITHUB
 <br>
-<br>
-
-## Demostração 
-<hr>
-<br>
-<div align="center" >
-  <img src="./.github/FocusTimer.gif" alt="demo-web" height="425">
-  
-</div>
-<br>
-
-Link para acessar :  <a href= "https://adriannoarraujo.github.io/Focus-Timer-/" target="_blank"> Focus Timer </a> 
-</div>
 <br>
 
 <hr>
