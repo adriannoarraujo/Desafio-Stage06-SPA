@@ -27,7 +27,7 @@ Primeiro desafio proposto no módulo 6 do curso Explorer da Rocketseat
 <br>
 
 
-Link para acessar :  <a href= "https://desafio-stage06-spa.vercel.app/explor" target="_blank"> SPA - Single Page Applications </a> 
+Link para acessar :  <a href= "https://desafio-stage06-spa.vercel.app/" target="_blank"> SPA - Single Page Applications </a> 
 </div>
 <br>
 
